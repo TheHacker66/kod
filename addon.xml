@@ -36,7 +36,7 @@
     <license>GNU GPL v3</license>
     <website>https://kodiondemand.github.io/</website>
     <forum>https://t.me/kodiondemand</forum>
-    <source>https://github.com/kodiondemand/addon</source>
+    <source>https://github.com/TheHacker66/kod</source>
   </extension>
   <extension point="xbmc.service" library="service.py" start="login|startup">
   </extension>
